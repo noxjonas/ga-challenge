@@ -1,0 +1,13 @@
+name: ga-challenge
+channels:
+  - defaults
+  - conda-forge
+  - anaconda
+dependencies:
+  - pip
+  - openpyxl
+  - pandas
+  - jupyter
+  - plotly
+  - statsmodels
+prefix: C:\Users\Jonas\Miniconda3\envs\ga-challenge
